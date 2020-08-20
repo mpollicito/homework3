@@ -2,7 +2,7 @@
 Password Generator
 
 In this homework assignment we were tasked with adding the logic to an existing shell of an app.
-The app in question is a password genrator which prompts the user to choose from the following options:
+The app in question is a password generator which prompts the user to choose from the following options:
 
 -Length of password - Between 8 and 128 characters.
 -Letter case: Uppercase, lowercase or both.
